@@ -1,6 +1,6 @@
 Name:           ulcc
 Version:        1.0.1
-Release:        1
+Release:        2
 Summary:        Teaching children by pictures
 Group:          Education
 License:        GPLv3+
